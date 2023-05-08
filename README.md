@@ -1,6 +1,7 @@
 # Assignment
 # Prerequesties
 python >= 3.7
+
 node js
 
 # Backend Side
@@ -12,6 +13,7 @@ python manage.py runserver
 
 # For migrations
 Python manage.py makemigrations
+
 python manage.py migrate
 
 # For running the scrapping service
